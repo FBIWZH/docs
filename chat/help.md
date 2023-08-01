@@ -14,4 +14,10 @@
 
 ##### $tips$：若想显示用户名，可在 设置$\rarr$用户名 中更改
 
-下载：https://fbiwzh.lanzoub.com/iivhv143k2ta
+下载：
+[https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1690879645616/release v0.0.1.7z](https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1690879645616/release v0.0.1.7z)
+
+或
+
+
+https://fbiwzh.lanzoub.com/iivhv143k2ta
